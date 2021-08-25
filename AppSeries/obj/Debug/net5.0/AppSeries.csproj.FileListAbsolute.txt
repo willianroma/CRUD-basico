@@ -1,0 +1,16 @@
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.csproj.AssemblyReference.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfoInputs.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfo.cs
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.csproj.CoreCompileInputs.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.exe
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.deps.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.dev.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\ref\AppSeries.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\bin\Debug\net5.0\AppSeries.pdb
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\ref\AppSeries.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.pdb
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\AppSeries\AppSeries\obj\Debug\net5.0\AppSeries.genruntimeconfig.cache
