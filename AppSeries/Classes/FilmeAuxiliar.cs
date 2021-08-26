@@ -35,7 +35,8 @@ namespace AppSeries.Classes
                     case "C":
                         Console.Clear();
                         break;
-                    default: throw new ArgumentOutOfRangeException();
+                    default: Console.WriteLine("Opção invalida.");
+                        break;
                 }
                 opcaoUsuario = ObterOpcaoUsuario();
             }

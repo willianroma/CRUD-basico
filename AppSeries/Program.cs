@@ -23,7 +23,8 @@ namespace AppSeries
                     case "2":
                         FilmeAuxiliar.Principal();
                         break;
-                    default: throw new ArgumentOutOfRangeException();
+                    default: Console.WriteLine("Opção invalida.");
+                        break;
                 }
                 opcaoUsuario = FilmeSerie();
             }

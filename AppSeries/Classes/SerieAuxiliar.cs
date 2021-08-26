@@ -36,7 +36,8 @@ namespace AppSeries.Classes
                     case "C":
                         Console.Clear();
                         break;
-                    default: throw new ArgumentOutOfRangeException();
+                    default: Console.WriteLine("Opção invalida.");
+                        break;
                 }
                 opcaoUsuario = ObterOpcaoUsuario();
             }
@@ -44,6 +45,7 @@ namespace AppSeries.Classes
 
         private static void VisualizarSerie()
         {
+            Console.Clear();
             Console.WriteLine("Digite o ID da série: ");
             int idSerie = int.Parse(Console.ReadLine());
 
@@ -61,6 +63,7 @@ namespace AppSeries.Classes
 
         private static void ExcluirSerie()
         {
+            Console.Clear();
             Console.WriteLine("Digite o ID da série: ");
             int idSerie = int.Parse(Console.ReadLine());
 
@@ -78,13 +81,13 @@ namespace AppSeries.Classes
             }
             Console.WriteLine("Digite o gênero entre as opções acima: ");
             int entradaGenero = int.Parse(Console.ReadLine());
-
+            Console.Clear();
             Console.WriteLine("Digite o título da série: ");
             string entradaTitulo = Console.ReadLine();
-
+            Console.Clear();
             Console.WriteLine("Digite o ano de início da Série: ");
             int entradaAno = int.Parse(Console.ReadLine());
-
+            Console.Clear();
             Console.WriteLine("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
@@ -99,6 +102,7 @@ namespace AppSeries.Classes
 
         private static void InserirSerie()
         {
+            Console.Clear();
             Console.WriteLine("Inserir nova Série.");
 
             foreach (int i in Enum.GetValues(typeof(Genero)))
@@ -107,13 +111,13 @@ namespace AppSeries.Classes
             }
             Console.WriteLine("Digite o gênero entre as opções acima: ");
             int entradaGenero = int.Parse(Console.ReadLine());
-
+            Console.Clear();
             Console.WriteLine("Digite o título da série: ");
             string entradaTitulo = Console.ReadLine();
-
+            Console.Clear();
             Console.WriteLine("Digite o ano de início da Série: ");
             int entradaAno = int.Parse(Console.ReadLine());
-
+            Console.Clear();
             Console.WriteLine("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
@@ -128,6 +132,7 @@ namespace AppSeries.Classes
 
         private static void ListarSeries()
         {
+            Console.Clear();
             Console.WriteLine("Listar Serie.");
 
             var lista = repositorio.Listar();
